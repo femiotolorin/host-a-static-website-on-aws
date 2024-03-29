@@ -1,6 +1,3 @@
-# host-a-static-website-on-aws
-host a static website on aws
-
 # Hosting a Static Website on AWS
 
 This project demonstrates the process of hosting a static HTML web application on AWS. Below is a detailed README outlining the configuration and deployment steps involved in setting up the infrastructure and deploying the web application.
